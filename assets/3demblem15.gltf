@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Asset 4.003",
+            "name" : "Asset 4.004",
             "rotation" : [
                 0.7071068286895752,
                 0,
@@ -23,21 +23,16 @@
                 0.7071067094802856
             ],
             "scale" : [
-                -0.076534204185009,
-                -0.07716313749551773,
-                -0.0873606875538826
-            ],
-            "translation" : [
-                0.01804181933403015,
-                0.012247323989868164,
-                2.5285041332244873
+                2,
+                2,
+                2
             ]
         }
     ],
     "materials" : [
         {
             "doubleSided" : true,
-            "name" : "Material.002",
+            "name" : "Material.004",
             "normalTexture" : {
                 "index" : 0,
                 "scale" : 3.1999998092651367,
@@ -58,7 +53,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Asset 4.003",
+            "name" : "Asset 4.004",
             "primitives" : [
                 {
                     "attributes" : {
